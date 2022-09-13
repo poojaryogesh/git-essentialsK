@@ -46,5 +46,8 @@ If you're opening a pull request against this repo, you should put your name (an
 * _Insert your name and website here_
 
 ___
+# This is a course to teach you how to use everyday git.
+
+
 
 Course created by Kalob Taulien.
